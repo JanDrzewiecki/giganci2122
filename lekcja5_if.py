@@ -1,10 +1,12 @@
 
+rozmiar = 4;
+
+for linia in range (rozmiar):
+  for wiersz in range (rozmiar):
+    print ('-', end='');
+  print();
 
 
-linia = '   '
-for linia in range (4):
-  for j in range('*'):
-    print()
 
 
 # zadanie 3
